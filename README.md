@@ -49,9 +49,5 @@
 </p>
 
 
-### 📫 Contact
 
-Feel free to reach out!
-
-[🔗 LinkedIn](https://www.linkedin.com/in/mariana-puerta-c)
 
